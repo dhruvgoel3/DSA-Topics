@@ -15,7 +15,7 @@
 
 public class array_2D {
     public static void main(String[] args) {
-        int A[][] = new int[3][3];
+        int A[][] = new int[5][5];
 
     }
 
